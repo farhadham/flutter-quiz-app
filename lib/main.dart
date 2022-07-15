@@ -4,6 +4,7 @@ void main() {
   runApp(MyApp());
 }
 
+//stateful widget
 class MyApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
